@@ -34,7 +34,7 @@ header {
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
-    padding: 28px 0;
+    padding: 27px 0;
     border-bottom: 3px solid #ffffff;
 }
 .nav_bar a:hover {
@@ -80,4 +80,11 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+/* Main Section */
+.banner_container {
+    margin: 40px 0;
+}
+.banner_image {
+    width: 100%;
 }
