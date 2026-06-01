@@ -88,3 +88,22 @@ header {
 .banner_image {
     width: 100%;
 }
+.category_heading {
+    text-transform: uppercase;
+    color: #e00648;
+    letter-spacing: .15em;
+    font-size: 2.8em;
+    margin: 5px 0 50px 300px;
+    max-height: 10em;
+    font-weight: 1000;
+    
+}
+.category_items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.sale_item {
+    width: 183px;
+    
+}
